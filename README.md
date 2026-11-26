@@ -92,3 +92,7 @@ docker compose up -d
 ```bash
 docker compose down
 ```
+## Grafana Dashboard
+
+The dashboard JSON is available in this repository.
+It can be imported into Grafana to view system monitoring metrics.
